@@ -1,6 +1,13 @@
 Ini adalah repository Front-End untuk [BRIK](https://brik.id/) Code Challenge.
 
 # Getting Started
+>**Note**: Once the back-end is ready and running, the account credentials for logging in are:
+
+>email: john@example.com
+
+>password: password
+
+Or you can create your account via the register feature :D
 ## Step 1: Installation
 
 First, install all the packages
